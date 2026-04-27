@@ -22,6 +22,13 @@ export default function App() {
           <li className="p-2 hover:bg-blue-700 rounded cursor-pointer">Settings</li>
         </ul>
 
+        <ul className="p-2 space-y-2">
+          <li className="p-2 hover:bg-blue-700 rounded cursor-pointer">Dashboard</li>
+          <li className="p-2 hover:bg-blue-700 rounded cursor-pointer">Users</li>
+          <li className="p-2 hover:bg-blue-700 rounded cursor-pointer">Orders</li>
+          <li className="p-2 hover:bg-blue-700 rounded cursor-pointer">Settings</li>
+        </ul>
+
       </div>
 
       {/* ---------------- MAIN AREA ---------------- */}
